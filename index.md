@@ -1,6 +1,3 @@
-# Annie Van 
-## Software Engineer
-
 ## Table of Contents
 1. [Welcome](/index.md)
 2. [About Me](#about-me)
