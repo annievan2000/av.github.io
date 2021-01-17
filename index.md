@@ -47,7 +47,7 @@ int main()
   * Technical Program Manager at CodePath
 
 * Lab 1 Assignment Details
-  * [Relative Link Example](/README.md)
+  * [Relative Link Example](/main/README.md)
 
 ## Personal
 
